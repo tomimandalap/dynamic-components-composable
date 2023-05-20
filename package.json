@@ -1,6 +1,8 @@
 {
   "name": "nuxt-app",
   "private": true,
+  "description": "Create dynamic component use composbale",
+  "author": "Tomi Mandala Putra",
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
