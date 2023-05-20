@@ -1,5 +1,9 @@
 <script setup lang="ts">
 const modal = useModal();
+
+useHead({
+  title: "Dynamic Components - Composable",
+});
 </script>
 
 <template>
