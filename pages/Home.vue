@@ -8,16 +8,19 @@ const modal = useModal();
       <h1>Composable Component</h1>
 
       <p>
-        vue menerima Komponen yang dijadikan objek reaktif. Hal ini dapat
-        menyebabkan overhead performa yang tidak perlu, oleh sebab itu hal ini
-        harus dihindari dengan menandai komponen sebagai `markRaw` atau
-        menggunakan `shallowRef` sebagai pengganti `ref`.
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nihil, facere
+        excepturi! Molestias asperiores, doloribus autem molestiae eum unde at
+        officiis, quaerat hic, enim commodi voluptates fugiat cum assumenda illo
+        quae expedita atque optio inventore a repudiandae aliquid. Quasi autem
+        odio natus, architecto praesentium ullam laboriosam repellat cumque
+        voluptate magni voluptates?
       </p>
 
       <p>
-        shallowRef() digunakan untuk mengoptimalkan performa dari struktur data
-        yang besar atau integrasi dengan sistem manajemen state eksternal.
-        shallowRef() hanya akan memicu listener jika nilai itu sendiri berubah
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aliquam
+        deserunt earum quia dolores tenetur rem hic itaque. Magnam assumenda
+        possimus, veniam voluptatem debitis est autem eum eaque accusamus unde
+        ullam!
       </p>
 
       <button
